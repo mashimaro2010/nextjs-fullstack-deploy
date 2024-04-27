@@ -38,7 +38,7 @@ export default async function page() {
               </CardContent>
               <CardActions>
                 <a href={`/attractions/${attraction.id}`}>
-                  <Button size="small">Learn More</Button>
+                  <Button size="small">อ่านต่อ</Button>
                 </a>
               </CardActions>
             </Card>
